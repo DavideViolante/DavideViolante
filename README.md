@@ -1,6 +1,6 @@
 ## Ciao! 👋
 
-I'm Davide, a Tech Lead from Italy :it: with a MSc in Computer Engineering 🎓
+I'm Davide, a remote Tech Lead from Italy :it: with a MSc in Computer Engineering 🎓
 
 ### Technologies I love
 
