@@ -6,6 +6,10 @@ I'm Davide, MSc in Computer Engineering 🎓, currently full remote Tech Lead an
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<a href="https://github.com/adar2378">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DavideViolante&show_icons=true&title_color=000000&count_private=true" />
+</a>
+
 ### Contact
 
 Feel free to reach me out [here](https://davideviolante.com/contact) 📫
